@@ -1,2 +1,3 @@
 alert("¡Bienvenido Antonio! 🙂");
-console.log("Welcome, Antonio! 🙂 Everything is working correctly.");
+console.log("Welcome, Antonio! 🙂");
+console.log("Everything is working correctly.");
