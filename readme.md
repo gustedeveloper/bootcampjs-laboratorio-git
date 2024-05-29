@@ -1,7 +1,5 @@
 # Bootcamp JavaScript 2 - Lemoncode
 
----
-
 ## Laboratorio Git
 
 Este laboratorio tiene como objetivo practicar los comandos básicos de Git:
@@ -36,7 +34,7 @@ Conecto el repositorio local con el repositorio en GitHub
 
 <img src="./capturas/img2.3.png"/>
 
-### Hacer commit y push
+### Hacer _commit_ y _push_
 
 Creo los primeros archivos
 
@@ -53,3 +51,9 @@ Toca subir los cambios al repositorio en GitHub
 Refresco la página para ver que todo se ha subido correctamente
 
 <img src="./capturas/img3.3.png"/>
+
+### Crear una rama
+
+A continuación, creo una nueva rama llamada **_development_**
+
+<img src="./capturas/img4.png"/>
