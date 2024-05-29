@@ -112,3 +112,7 @@ En este caso, decido mantener la versión de la rama **_development_** que serí
 Y hago **_push_** al repositorio de GitHub
 
 <img src="./capturas/img7.png"/>
+
+Y eso es todo.
+
+Muchas gracias por la atención, hasta la próxima 🙂
